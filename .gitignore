@@ -1,0 +1,18 @@
+# Build outputs
+build/
+iso/
+
+# OS images
+*.bin
+*.iso
+*.img
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
