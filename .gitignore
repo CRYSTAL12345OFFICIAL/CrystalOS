@@ -1,10 +1,3 @@
-build/
-*.exe
-*.o
-*.obj
-CMakeFiles/
-CMakeCache.txt
-.vscode/
 # Build outputs
 build/
 iso/
